@@ -13,8 +13,6 @@ To interact with the demo map directly, download the file here: [`basin_map.html
 
 The [`folium_map_demo.ipynb`](https://github.com/TrevorJA/Folium_Interactive_Map_Demo/blob/main/folium_map_demo.ipynb) walks through the process shown below and will re-create the map shown above. You can create a similar plot for a different basin by changing the `station_id` number inside ['retrieve_basin_data.ipynb'](https://github.com/TrevorJA/Folium_Interactive_Map_Demo/blob/main/retrieve_basin_data.ipynb) to a specific USGS gauge of interest. 
 
-![Map usage](https://github.com/TrevorJA/Folium_Interactive_Map_Demo/blob/main/images/interactive_map_usage.gif)
-
 Here is a brief video showcasing the interaction with the final map:
 
 <p align="center">
