@@ -1,7 +1,7 @@
 
 ## Creating Interactive Geospatial Maps in Python with Folium
 
-This repository hosts demonstration code for a blog post: [Waterprogramming, *Creating Interactive Geospatial Maps in Python with Folium*.]()
+This repository hosts demonstration code for a blog post: [Waterprogramming, *Creating Interactive Geospatial Maps in Python with Folium*.](https://waterprogramming.wordpress.com/2023/04/05/creating-interactive-geospatial-maps-in-python-with-folium/)
 
 In this post, I provide a demonstration on how to use the `folium` package to create an HTML based interactive map of a hydrologic watershed.
 
@@ -15,7 +15,9 @@ The [`folium_map_demo.ipynb`](https://github.com/TrevorJA/Folium_Interactive_Map
 
 Here is a brief video showcasing the interaction with the final map:
 
-![interactive_map_usage.gif](https://github.com/TrevorJA/Folium_Interactive_Map_Demo/tree/main/images/interactive_map_usage.gif)
+<p align="center">
+    <img src="https://github.com/TrevorJA/Folium_Interactive_Map_Demo/tree/main/images/interactive_map_usage.gif" alt = "Showing interaction and user experience with map." />
+</p>
 
 
 ### Map Data
